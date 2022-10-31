@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salem
-- 👀 I’m interested in devloping mobile apps using Flutter
+- 👀 I’m interested in developing mobile apps using Flutter
 - 🌱 I’m currently learning about architecture
 - 📫 You can reach me on Twitter @dev_salem0
 
